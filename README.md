@@ -1,4 +1,4 @@
-Restaurant Management System using Python
+Restaurant Management System using Python And Tkinter
 
 Restaurant management system is very much needed. It reduces a lot of hardwork and complexity. Nowadays 
 restaurant are filled with people so it’s very difficult to manage all the work manually. That’s why these kind 
